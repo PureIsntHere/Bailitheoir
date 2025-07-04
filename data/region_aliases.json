@@ -1,0 +1,10 @@
+{
+  "Oregon, US": ["oregon", "or", "org"],
+  "California, US": ["california", "ca", "cali", "san fran", "los angeles", "la"],
+  "Texas, US": ["texas", "tx"],
+  "Florida, US": ["florida", "fl"],
+  "Washington, US": ["washington", "wa"],
+  "North Holland NL": ["north holland", "holland", "nl"],
+  "Hesse, DE": ["hesse", "de", "germany"],
+  "North West SG": ["north west sg", "sg", "singapore"]
+}
