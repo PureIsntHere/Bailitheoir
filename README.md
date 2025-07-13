@@ -4,7 +4,7 @@ A minimal Discord bot to detect and log Rune Slayer boss spawns via webhook.
 
 ---
 
-### 🔍 Features
+### Features
 
 - **Real-time detection**: Parses chat for boss names, regions, and server names
 - **Modular data**: All bosses, keywords, regions, and roles in JSON files
@@ -13,7 +13,7 @@ A minimal Discord bot to detect and log Rune Slayer boss spawns via webhook.
 
 ---
 
-### 🚀 Setup
+### Setup
 
 1. **Clone the repo**  
    ```bash
@@ -33,7 +33,7 @@ A minimal Discord bot to detect and log Rune Slayer boss spawns via webhook.
 
 ---
 
-### ⚙️ Configuration
+### Configuration
 
 - **config.ini** — bot token, webhook URL, and test mode
 - **data/** — JSON files for:
@@ -49,7 +49,7 @@ Modify any JSON to customize behavior without touching code.
 
 ---
 
-### 🤝 Contributing
+### Contributing
 
 1. Fork this repo  
 2. Create a feature branch  
@@ -57,6 +57,6 @@ Modify any JSON to customize behavior without touching code.
 
 ---
 
-### 📜 License
+###License
 
-This project is MIT-licensed. See [LICENSE](LICENSE).
+MIT
