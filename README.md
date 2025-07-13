@@ -57,6 +57,6 @@ Modify any JSON to customize behavior without touching code.
 
 ---
 
-###License
+### License
 
 MIT
