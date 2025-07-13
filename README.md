@@ -17,7 +17,7 @@ A minimal Discord bot to detect and log Rune Slayer boss spawns via webhook.
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/your-username/purity-scraper.git
+   git clone https://github.com/PureIsntHere/purity-scraper.git
    cd purity-scraper
    ```
 2. **Install dependencies**  
