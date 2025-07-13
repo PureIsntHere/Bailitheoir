@@ -1,6 +1,6 @@
 # Bailitheoir
 
-A minimal Discord bot to detect and log Rune Slayer boss spawns via webhook.
+A minimal Discord self-bot to detect and log Rune Slayer boss spawns via webhook.
 
 ---
 
