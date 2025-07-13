@@ -1,4 +1,4 @@
-# Purity Scraper
+# Bailitheoir
 
 A minimal Discord bot to detect and log Rune Slayer boss spawns via webhook.
 
@@ -17,8 +17,8 @@ A minimal Discord bot to detect and log Rune Slayer boss spawns via webhook.
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/PureIsntHere/purity-scraper.git
-   cd purity-scraper
+   git clone https://github.com/PureIsntHere/Bailitheoir.git
+   cd Bailitheoir
    ```
 2. **Install dependencies**  
    ```bash
